@@ -15,14 +15,13 @@ Hard-coded multi-screen Travel App UI built with Flutter. The focus is advanced 
 1. `flutter pub get`
 2. `flutter run`
 
-## Screenshots (Replace With Yours)
-Place screenshots in `documentation/screenshots/` and update file names if needed.
+## Screenshots 
 
 Home Screen  
 `documentation/screenshots/home.png`
 
 Detail Screen  
-`documentation/screenshots/detail.png`
+`documentation/screenshots/details.png`
 
 Booking Screen  
 `documentation/screenshots/booking.png`
@@ -30,14 +29,7 @@ Booking Screen
 Confirmation Dialog  
 `documentation/screenshots/confirmation.png`
 
-## Layout Choices (Summary)
-- A soft neutral background and a deep teal accent color unify all screens.
-- The Home Screen uses a layered card grid with image overlays and a gradient banner to add depth.
-- The Detail Screen emphasizes the hero image and quick info chips for rapid scanning.
-- The Booking Screen uses clean card sections and form-style fields for clarity.
-- Consistent spacing and rounded corners create a cohesive travel brand aesthetic.
-
-## Widgets Used (18+)
+## Widgets Used
 - `MaterialApp`
 - `Scaffold`
 - `AppBar`
@@ -60,12 +52,6 @@ Confirmation Dialog
 - `Spacer`
 - `CircleAvatar`
 - `Divider`
-
-## Navigation Flow
-Home → Detail → Booking → Back
-
-Diagram placeholder:  
-`documentation/diagrams/navigation-flow.png`
 
 ## Notes
 - All data is hard-coded in Dart files as required.

@@ -16,11 +16,11 @@ const destinations = [
     title: 'Bali Escape',
     location: 'Bali, Indonesia',
     description:
-        'A lush island retreat with turquoise waters, surf breaks, and temple'
-        ' sunsets. Spend your days on hidden beaches, explore rice terraces,'
-        ' and end evenings with local cuisine by the sea.',
+        'Welcome to Bali, bra bra bra bra'
+        ' description, description, description and description from descriptions '
+        ' lasjdhfljsdjhf;lakdhf; lajhdf;l aldjfakdfjaqljkejqn.',
     category: 'Beach',
-    image: 'assets/images/bali.png',
+    image: 'assets/images/bali.jpg',
     price: 340,
     rating: 4.8,
     reviews: 1280,
@@ -31,11 +31,11 @@ const destinations = [
     title: 'Paris Lights',
     location: 'Paris, France',
     description:
-        'Classic boulevards, iconic landmarks, and an effortless sense of'
-        ' style. Enjoy riverside walks, gallery visits, and cozy cafes tucked'
-        ' between historic streets.',
+        'dihqdfnq wfjqh;wefq;nwefqwe qwjefqhdf qwefq;jefq wefq'
+        ' qofiqpkpqc qwojejq wofakndc qdf doifjqjf qefojqf qoiefqfmq weqefijqw '
+        ' qweoijf ijamcpadvlspds d vosdjva pdjaknds sda pasdjf',
     category: 'City',
-    image: 'assets/images/paris.png',
+    image: 'assets/images/paris.jpg',
     price: 520,
     rating: 4.7,
     reviews: 940,
@@ -46,11 +46,11 @@ const destinations = [
     title: 'Tokyo Pulse',
     location: 'Tokyo, Japan',
     description:
-        'Neon streets meet tranquil gardens in this high-energy capital.'
-        ' Discover street food, modern art, and timeless shrines with seamless'
-        ' city transit.',
+        'asdn apjada asdja sdcalqjnd asdjna aojsdmndfanansasdnknadna,smd aad'
+        ' Dhnasjd ajsdknancosd pAOKASFIJPlajsf  [aijifjsdja asodfj]sda sdasdsd'
+        ' sdfad; sdfh.',
     category: 'Culture',
-    image: 'assets/images/tokyo.png',
+    image: 'assets/images/tokyo.jpg',
     price: 610,
     rating: 4.9,
     reviews: 1575,
@@ -61,9 +61,9 @@ const destinations = [
     title: 'Iceland Aurora',
     location: 'Reykjavik, Iceland',
     description:
-        'Chase northern lights across dramatic landscapes. Geothermal lagoons,'
-        ' volcanic beaches, and glacier hikes create a trip filled with'
-        ' unforgettable contrasts.',
+        'lasdf asdfhadfa dflha foahsfN ASFasjfASF asjlksndasasd valsdvas asdih'
+        ' be alja asdjasdv sdhsdfjasoidasdv  psadf asddoi asdfiasjdfasdnl'
+        ' sdvsjdvsdkv;skdlvpj of',
     category: 'Adventure',
     image: 'assets/images/iceland.png',
     price: 780,
@@ -76,8 +76,8 @@ const destinations = [
     title: 'Sahara Dunes',
     location: 'Merzouga, Morocco',
     description:
-        'Golden dunes and starry skies define this desert journey. Ride across'
-        ' the sands, sip mint tea by the fire, and sleep in luxury camps.',
+        'sdfalskdfla asohsdvo sadivhsufh siughaoshdv sdoha asudfgha sduahu[a ]'
+        ' sdojalskv asdvhasv aosvha aoisvaosdv paosivapiodsv paoi.',
     category: 'Desert',
     image: 'assets/images/sahara.png',
     price: 410,
@@ -90,10 +90,10 @@ const destinations = [
     title: 'Everest Base',
     location: 'Khumbu, Nepal',
     description:
-        'A legendary trek through alpine villages and panoramic ridges.'
-        ' Experience crisp mountain air, prayer flags, and awe-inspiring peaks.',
+        'anasjh sadjalsd asdlihaljsda dh[AUPI AIPFASKJDF] ASDFASD FSDJ ouhf '
+        ' sdfhasd asdhasdf asdjhpiosda sdhsodiha sdpaod aosdaosdhvs dvhsdvhasd .',
     category: 'Mountain',
-    image: 'assets/images/everest.png',
+    image: 'assets/images/everest.jpg',
     price: 860,
     rating: 4.9,
     reviews: 510,
