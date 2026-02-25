@@ -18,16 +18,19 @@ Hard-coded multi-screen Travel App UI built with Flutter. The focus is advanced 
 ## Screenshots 
 
 Home Screen  
-`documentation/screenshots/home.png`
+![Home Screen](documentation/screenshots/home.png)
 
 Detail Screen  
-`documentation/screenshots/details.png`
+![Detail Screen](documentation/screenshots/details.png)
 
 Booking Screen  
-`documentation/screenshots/booking.png`
+![Booking Screen](documentation/screenshots/booking.png)
 
 Confirmation Dialog  
-`documentation/screenshots/confirmation.png`
+![Confirmation Dialog](documentation/screenshots/confirmation.png)
+
+Navigation Flow Diagram  
+![Navigation Flow](documentation/diagrams/navigation-flow.png)
 
 ## Widgets Used
 - `MaterialApp`
